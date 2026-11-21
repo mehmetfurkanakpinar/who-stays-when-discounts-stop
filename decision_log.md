@@ -1,19 +1,5 @@
-# Problem Framing
+# Decision log
 
-## Business context
-Discount campaigns are useful to attract customers in, but not everyone stays once the discount ends. This project aims to understand the customers who do stay and to analyse how they shopped before and during a campaign, and which behavioural patterns, such as habit, discovery or deal-seeking, set them apart. 
-
-Knowing who stays, and plausibly why, informs two decisions:
-- Where should the next campaign budget go?
-- How could campaigns be designed for different customer profiles?
-
-## Decisions this analysis supports
-
-
-## Key question
-
-## Definition of done
-
-## Out of scope
-
-## Assumptions and known contstraints
+| Date | Decision | Options considered | Rationale |
+|---|---|---|---|
+| 2026-11-21 | Frame the project around customers who stay after a campaign ends | Campaign effectiveness overall; who stays after the campaign | Overall effectiveness is a common analysis; who stays links customer behaviour to both budget and campaign design decisions |
