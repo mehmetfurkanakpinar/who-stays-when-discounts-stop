@@ -14,3 +14,6 @@ Knowing who stays, and plausibly why, informs two decisions:
 - `src/`: reusable metric functions and tests
 - `reports/`: charts and final outputs
 - `decision_log.md`: analysis decisions and why they were made
+
+## Data
+dunnhumby, "The Complete Journey". Download instructions will be added.
