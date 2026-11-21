@@ -5,7 +5,7 @@ Discount campaigns are useful to attract customers in, but not everyone stays on
 
 Knowing who stays, and plausibly why, informs two decisions:
 - Where should the next campaign budget go?
-- How campaigns could be designed for different customer profiles?
+- How could campaigns be designed for different customer profiles?
 
 ## Repository Structure
 - `docs/`: problem framing, analysis plan, data audit, decision memo
