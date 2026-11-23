@@ -18,7 +18,7 @@ When this analysis is done, I should be able to say:
 - what this suggests for where the next campaign budget should go, with one experiment to test the strongest explanation.
 
 ## Out of scope
-- this analysis focuses on who stays, not whether campaigns pay off overall
+- Overall campaign effectiveness
 - Pricing decisions
 - New customer acquisition
 - Predicting individual customers' future behaviour
@@ -34,6 +34,7 @@ When this analysis is done, I should be able to say:
 ### Known constraints
 - The data comes from a single US grocery retailer.
 - There is no holdout group, so the effect of campaigns cannot be measured directly.
+- In Type A campaigns, coupons were selected for each household based on its past purchases, which can bias results for these campaigns.
 - Demographic data, including income, is available for only about 800 of the roughly 2,500 households.
 - Coupon redemptions are relatively rare (around 2,300 records), so the analysis cannot rely on redemptions alone.
 
