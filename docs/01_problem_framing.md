@@ -7,10 +7,8 @@ Knowing who stays, and plausibly why, informs two decisions:
 - Where should the next campaign budget go?
 - How could campaigns be designed for different customer profiles?
 
-## Decisions this analysis supports
-
-
 ## Key question
+- Which behaviours before and during a campaign distinguish the customers who keep buying after it ends?
 
 ## Definition of done
 When this analysis is done, I should be able to say:
@@ -20,5 +18,23 @@ When this analysis is done, I should be able to say:
 - what this suggests for where the next campaign budget should go, with one experiment to test the strongest explanation.
 
 ## Out of scope
-
+- this analysis focuses on who stays, not whether campaigns pay off overall
+- Pricing decisions
+- New customer acquisition
+- Predicting individual customers' future behaviour
+  
 ## Assumptions and known constraints
+
+### Assumptions
+- Each household in the dataset is treated as one customer.
+- Transactions in the dataset cover a household's shopping at this retailer.
+- A household listed as receiving a campaign is assumed to have been exposed to it.
+- Buying in a category after a campaign ends, without a discount, is taken as a sign of staying.
+
+### Known constraints
+- The data comes from a single US grocery retailer.
+- There is no holdout group, so the effect of campaigns cannot be measured directly.
+- Demographic data, including income, is available for only about 800 of the roughly 2,500 households.
+- Coupon redemptions are relatively rare (around 2,300 records), so the analysis cannot rely on redemptions alone.
+
+
