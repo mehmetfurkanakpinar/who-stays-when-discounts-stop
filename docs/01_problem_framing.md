@@ -13,6 +13,11 @@ Knowing who stays, and plausibly why, informs two decisions:
 ## Key question
 
 ## Definition of done
+When this analysis is done, I should be able to say:
+- what share of households keep buying after a campaign ends,
+- which behaviours before and during the campaign set them apart from those who stop,
+- which behavioural explanations, such as habit, discovery or deal-seeking, these patterns are consistent with, and
+- what this suggests for where the next campaign budget should go, with one experiment to test the strongest explanation.
 
 ## Out of scope
 
