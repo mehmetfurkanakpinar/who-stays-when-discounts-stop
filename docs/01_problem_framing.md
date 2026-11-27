@@ -37,5 +37,6 @@ When this analysis is done, I should be able to say:
 - In Type A campaigns, coupons were selected for each household based on its past purchases, which can bias results for these campaigns.
 - Demographic data, including income, is available for only about 800 of the roughly 2,500 households.
 - Coupon redemptions are relatively rare (around 2,300 records), so the analysis cannot rely on redemptions alone.
+- There is no attitudinal data such as surveys or attitude measures, so loyalty is inferred from behaviour only.
 
 
